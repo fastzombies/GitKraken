@@ -1,4 +1,10 @@
 master readme
+<<<<<<< HEAD
 edit in master after dev branch and commit
 another master edit
 one more master edit before doing some dev edits then a merge
+=======
+edit in dev 
+another edit in dev after some master edits
+>>>>>>> dev
+both README. files edited so have to pick one.  Will push master to dev
